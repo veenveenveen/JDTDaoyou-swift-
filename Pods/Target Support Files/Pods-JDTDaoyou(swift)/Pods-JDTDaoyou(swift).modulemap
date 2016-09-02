@@ -1,0 +1,6 @@
+framework module Pods_JDTDaoyou_swift_ {
+  umbrella header "Pods-JDTDaoyou(swift)-umbrella.h"
+
+  export *
+  module * { export * }
+}
